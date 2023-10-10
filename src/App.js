@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Like from './components/Like';
 
 function App() {
   return (
